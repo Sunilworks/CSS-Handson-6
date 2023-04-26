@@ -114,7 +114,7 @@ button{
 }
 
 
-@media screen and (min-width:280px) and (max-width:500px){
+@media screen and (min-width:280px) and (max-width:600px){
     body{
         background-size: 900%;
     }
